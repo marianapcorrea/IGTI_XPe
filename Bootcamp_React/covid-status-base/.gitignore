@@ -1,7 +1,5 @@
 country.*
 
-*.json
-
 /node_modules
 
 roteiro.txt
