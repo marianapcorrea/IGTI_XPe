@@ -1,5 +1,6 @@
 country.*
 
+*.json
 
 /node_modules
 
