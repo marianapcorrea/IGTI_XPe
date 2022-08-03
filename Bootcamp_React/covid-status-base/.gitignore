@@ -1,6 +1,6 @@
 country.*
 
 
-node_modules
+/node_modules
 
 roteiro.txt
