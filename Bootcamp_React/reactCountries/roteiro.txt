@@ -1,32 +1,32 @@
 Roteiro - react-countries
 =========================
 
-() Obter projeto-base, copiar para "aula-depois", 
+(x) Obter projeto-base, copiar para "aula-depois", 
    renomear pasta para "react-countries-aula" e
    instalar dependências com o comando "yarn"
 
-() Utilizar .env
+(x) Utilizar .env
 
-() Executar projeto com "yarn dev"
+(x) Executar projeto com "yarn dev"
 
-() App.js
-   () Mostrar boa prática de isolar a aplicação em páginas
+(x) App.js
+   (x) Mostrar boa prática de isolar a aplicação em páginas
    
-   () Criar o componente ReactCountriesPage e utilizá-lo
+   (x) Criar o componente ReactCountriesPage e utilizá-lo
       em App
 	  
-() ReactCountriesPage.js
+(x) ReactCountriesPage.js
 
-   () Reaproveitar TextInput, Header e Main dos
+   (x) Reaproveitar TextInput, Header e Main dos
       projetos anteriores
 
-   () Utilizar countries.json na aplicação através 
+   (x) Utilizar countries.json na aplicação através 
       de uma "const" exportável
 
-   () Enfatizar que isso não é comum. O mais comum é 
+   (x) Enfatizar que isso não é comum. O mais comum é 
       utilizar um Back End, que será visto posteriormente
 
-   () Criar, em Main, input para filtrar países e um 
+   (x) Criar, em Main, input para filtrar países e um 
       state para tal. Testar implementação.
 
    () Implementar filtro de países com pelo menos 
