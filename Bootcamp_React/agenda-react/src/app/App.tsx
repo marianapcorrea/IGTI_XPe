@@ -1,5 +1,9 @@
+import { CalendarScreen } from './CalendarScreen';
+
 function App() {
-  return <div>Projeto base</div>;
+    return (
+        <CalendarScreen />
+    )
 }
 
 export default App;
